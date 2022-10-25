@@ -10,7 +10,7 @@ data_table = {
     "date": [],
 }
 
-page_num = 800
+page_num = 1
 
 while True:
     print(f"Scraping page {page_num} ...")
